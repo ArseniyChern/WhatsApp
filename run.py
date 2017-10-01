@@ -14,7 +14,6 @@ import threading
 
 import json
 import os
-os.chdir("/Users/Arseniy/Desktop/")
 
 class EchoLayer(YowInterfaceLayer):
 

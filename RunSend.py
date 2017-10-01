@@ -10,8 +10,6 @@ from yowsup.common.tools import Jid
 import threading
 import os
 import json
-os.chdir("/Users/Arseniy/Desktop/")
-
 
 class SendLayer(YowInterfaceLayer):
 
